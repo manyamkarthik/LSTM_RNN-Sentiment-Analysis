@@ -6,6 +6,10 @@ This project is a web application that performs sentiment analysis on movie revi
 
 This project demonstrates a basic implementation of sentiment analysis.  It provides a user-friendly interface for interacting with a trained model, as well as a foundation for further enhancements and experimentation.
 
+
+![image](https://github.com/user-attachments/assets/4379de95-e712-4be7-9f79-6cc92b0a622b)
+
+
 ## Project Structure
 
 The project has the following structure:
